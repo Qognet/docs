@@ -1,0 +1,18 @@
+{
+  "name": "qognet-docs",
+  "version": "1.0.0",
+  "description": "Qognet AI Documentation",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "markdown-it-mathjax3": "^4.3.2",
+    "vitepress": "^1.0.0"
+  }
+}

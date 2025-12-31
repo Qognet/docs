@@ -1,0 +1,41 @@
+/* Import Font */
+@import url('https://fonts.googleapis.com/css2?family=Electrolize&display=swap');
+
+:root {
+  /* Qognet Brand Colors */
+  --vp-c-brand-1: #3A1AFF;
+  --vp-c-brand-2: #2E14CC;
+  --vp-c-brand-3: #2b15aa;
+  
+  /* Backgrounds - Force Dark Mode look even in light mode preference */
+  --vp-c-bg: #010304;
+  --vp-c-bg-alt: #0F1013;
+  --vp-c-bg-soft: #1A1B1F;
+  
+  /* Text */
+  --vp-c-text-1: #ffffff;
+  --vp-c-text-2: #87898E;
+  
+  /* Borders */
+  --vp-c-divider: #212328;
+  --vp-c-gutter: #212328;
+  
+  /* Fonts */
+  --vp-font-family-base: 'Electrolize', sans-serif;
+}
+
+/* Force dark scheme styles */
+.vp-doc h1, .vp-doc h2, .vp-doc h3, .vp-doc h4, .vp-doc h5, .vp-doc h6 {
+  font-weight: 400;
+}
+
+/* Custom Home Hero Button */
+.VPButton.brand {
+  background-color: var(--vp-c-brand-1);
+  border-radius: 0; /* Qognet sharp edges */
+  color: white;
+}
+
+.VPButton.brand:hover {
+  background-color: var(--vp-c-brand-2);
+}
