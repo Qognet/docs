@@ -1,4 +1,4 @@
-# ![Qognet Documentation](https://docs.qognet.ai/Assets/Qog%20Doc%20Dark.svg)
+# ![Qognet Documentation](./public/Assets/Qog%20Doc%20Dark.svg)
 
 > This is the official documentation for **Qognet**, Defensive AI.
 
