@@ -4,7 +4,7 @@ Web3 has transitioned from an experimental sandbox into a multi-trillion-dollar 
 
 Qognet creates a paradigm shift from forensics-based recovery to Defensive Intelligence (DI). By utilizing a proactive AI framework and decentralized networking, Qognet predicts and neutralizes threats before malicious transactions are even confirmed, allowing the security ecosystem to evolve faster than its adversaries.
 
-## Introduction to Qognet?
+## Introduction to Qognet
 
 Qognet is a full-stack, decentralized security ecosystem designed to provide the foundational layer of trust and safety. It is a fusion of AI, cryptoeconomics, and decentralized physical infrastructure (DePIN), built around a single mandate: prediction over reaction.
 
