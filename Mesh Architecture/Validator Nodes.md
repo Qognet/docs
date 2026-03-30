@@ -25,7 +25,7 @@ To acquire and activate a <code>qognet</code> VN, paticipants must obtain a spec
 VNs are bound and secured by a strict Proof-of-Stake (PoS) model.
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1rem; margin-bottom: 1rem;">
-  <a href="./Nodes%20Consensus%20Mechanism##proof-of-stake-and-economic-security" style="flex: 1 1 250px; padding: 1rem; border: 1px solid var(--vp-c-divider); border-radius: none; text-align: center; text-decoration: none; background-color: var(--vp-c-bg-soft);">
+  <a href="./Nodes%20Consensus%20Mechanism#proof-of-stake-and-economic-security" style="flex: 1 1 250px; padding: 1rem; border: 1px solid var(--vp-c-divider); border-radius: none; text-align: center; text-decoration: none; background-color: var(--vp-c-bg-soft);">
     <h4 style="margin: 0; border: none;">Nodes Consensus Mechanisms</h4>
   </a>
 </div>

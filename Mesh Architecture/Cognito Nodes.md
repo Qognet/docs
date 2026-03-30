@@ -22,10 +22,10 @@ CNs operate the sophisticated machine learning models that constitute the Cognit
 CNs require significantly more computational power (GPU/high-core CPU) than SNs due to the demanding nature of running constant GNN inference, and a significant $QOG Collateral Stake
 
 ### Acquisition
-Regarding availability or acquisition, the method for acquiring and operating a Cognito Node, whether through a direct license sale, a free software model requiring only the QOG collateral stake, or a decentralized auction/lottery—remains under active discussion and will be determined based on optimal economic and security scaling models. However, the requirement for a significant $QOG Collateral Stake for participation is immutable.
+Regarding availability or acquisition, the method for acquiring and operating a Cognito Node, whether through a direct license sale, a free software model requiring only the $QOG collateral stake, or a decentralized auction/lottery—remains under active discussion and will be determined based on optimal economic and security scaling models. However, the requirement for a significant $QOG Collateral Stake for participation is immutable.
 
 ### Consensus
-CNs operators are bound by the Proof-of-Reputation (PoR) Mechanism
+CNs operators are bound by the Proof-of-Reputation (PoR) Mechanism.
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1rem; margin-bottom: 1rem;">
   <a href="./Nodes%20Consensus%20Mechanism#proof-of-security-pos" style="flex: 1 1 250px; padding: 1rem; border: 1px solid var(--vp-c-divider); border-radius: none; text-align: center; text-decoration: none; background-color: var(--vp-c-bg-soft);">
