@@ -26,4 +26,4 @@ The Qognet ecosystem is composed of highly integrated, modular products:
 
 Our mission is to infuse decentralized networks with a layer of Cognition, the ability to sense, analyze, predict, and act autonomously against threats.
 
-Qognet aims to be the invisible, always-on security neural network intelligence protecting assets across all major blockchain. By creating a unified, self-healing, and proactive defensive spine, we reduce systemic risk and unlock the next wave of capital inflow into the decentralized economy.
+Qognet aims to be the invisible, always-on security neural network intelligence protecting assets across all major blockchains. By creating a unified, self-healing, and proactive defensive spine, we reduce systemic risk and unlock the next wave of capital inflow into the decentralized economy.

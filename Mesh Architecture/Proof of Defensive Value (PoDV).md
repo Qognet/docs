@@ -13,20 +13,20 @@ PoDV operates on the principle that a node's value is determined by the "Defense
 The PoDV mechanism follows a four-stage lifecycle for every intelligence contribution:
 
 ### 1. Data Attribution (The Sentinel Phase)
-When a Sentinel Node (`SN`) identifies a mempool anomaly or a suspicious contract interaction, it signs the data packet with its unique ZK-IDN. This creates an private immutable "Contribution Link."
+When a Sentinel Node (`SN`) identifies a mempool anomaly or a suspicious contract interaction, it signs the data packet with its unique ZK-IDN. This creates a private immutable "Contribution Link."
 
 - **Novelty Scoring:** The system checks if the data is unique. The first SN to report a specific threat vector receives a "First-Responder Multiplier." which boost the operator's reputation.
 
 ### 2. Cognitive Synthesis (The Cognito Phase)
-Cognito Nodes (`CN`) pull raw data packet from the Mesh and run it through `qognet`'s GNN-based AI models. To prove "Defensive Value," the `CN` must submit a Predictive Hypothesis (e.g., "This transaction will result in a $2M drainage of Pool X via Re-entrancy").
+Cognito Nodes (`CN`) pull raw data packets from the Mesh and run it through `qognet`'s GNN-based AI models. To prove "Defensive Value," the `CN` must submit a Predictive Hypothesis (e.g., "This transaction will result in a $2M drainage of Pool X via Re-entrancy").
 
-- **Computation Proof:** The `CN` proves provides a succinct proof that the AI inference was executed correctly on the provided data.
+- **Computation Proof:** The `CN` provides a succinct proof that the AI inference was executed correctly on the provided data.
 
 ### 3. Validation Finality & Consensus (The Validator Phase)
 Validator Nodes (`VN`) cross-reference the Cognito Hypothesis against the current blockchain state.
 
 - **Verification:** If the simulation confirms the threat, the `VN` signs a Defensive Signal.
-- **Finality:** Once 67% of stake-weighted `VNs` agrees, the signal is finalized, and the Qognet Safety Score (QSS) is updated globally.
+- **Finality:** Once 67% of stake-weighted `VNs` agree, the signal is finalized, and the Qognet Safety Score (QSS) is updated globally.
 
 ### 4. Value Settlement (The Reward Phase)
 Once the "Defense" is finalized (or the simulated exploit is prevented), the PoDV algorithm calculates the rewards:
@@ -42,6 +42,6 @@ Once the "Defense" is finalized (or the simulated exploit is prevented), the PoD
 
 | Component | Defensive Value Contribution | Primary Reward Metric |
 | :--- | :--- | :--- |
-| **Sentinel** | Sensory Data / First Response | Data Novelty, Reputation, uptime & Latency |
+| **Sentinel** | Sensory Data / First Response | Data Novelty, Reputation, Uptime & Latency |
 | **Cognito** | Predictive Intelligence | Hypothesis Accuracy & Compute Proof |
 | **Validator** | Integrity & Finality | Consensus Participation & Uptime |

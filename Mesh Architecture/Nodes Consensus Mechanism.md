@@ -9,9 +9,9 @@ Sentinel Nodes are incentivized by reputation, not capital stake. The Proof-of-R
 Beyond immediate rewards, the network employs a Proof of Reputation (PoR) system to build long-term trust and grant preferential network access to consistently reliable nodes.
 
 ### Reputation Score
-TheEvery Sentinel (SN), Cognito (CN), and Validator Node (VN) maintains a dynamic, on-chain Reputation Score based on their historical performance:
+Every Sentinel (SN), Cognito (CN), and Validator Node (VN) maintains a dynamic, on-chain Reputation Score based on their historical performance:
 
-- `SNs:` Assessccuracy and latency of raw data submission.
+- `SNs:` Assess accuracy and latency of raw data submission.
 
 - `CNs:` Accuracy and non-deviation of QSS generation from the network median.
 
@@ -22,7 +22,7 @@ Nodes with high PoR scores are granted preferential access to high-reward tasks,
 
 ## Proof of Security (PoS)
 
-Due to `CNs` critical role in generating signals, the operators are bound under a rigorous Proof-of-Security (PoS) consensus mechanism, requiring a substantial Collateral Stake in the **$QOG** token. This stake serves two purposes:
+Due to the critical role of `CNs` in generating signals, the operators are bound under a rigorous Proof-of-Security (PoS) consensus mechanism, requiring a substantial Collateral Stake in the **$QOG** token. This stake serves two purposes:
 
 - **Sybil Resistance:** It prevents malicious actors from overwhelming the network with bad data or false signals.
 
@@ -45,4 +45,4 @@ In addition to signal validation, `VNs` are the primary mechanism for decentrali
 
 - **Threat Genome Management:** The inclusion or exclusion of certain threat identifiers or data sources.
 
-- **Reward Parameters:** Adjustments to the proportional rewards distributed to `VNs`. `SNs` and `CNs`.
+- **Reward Parameters:** Adjustments to the proportional rewards distributed to `VNs`, `SNs`, and `CNs`.

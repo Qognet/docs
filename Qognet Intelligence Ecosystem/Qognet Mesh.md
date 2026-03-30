@@ -6,6 +6,6 @@ It represents the resilient interconnectivity layer, bridging the gap between ra
 
 ## How It Works
 
-Unlike traditional centralized clusters, the Mesh functions as a self-healing, peer-to-peer lattice nodes. By leveraging a gossip-based protocol, the Mesh ensures that threat signatures identified by a single node propagate across the global network in milliseconds.
+Unlike traditional centralized clusters, the Mesh functions as a self-healing, peer-to-peer lattice of nodes. By leveraging a gossip-based protocol, the Mesh ensures that threat signatures identified by a single node propagate across the global network in milliseconds.
 
 This lateral data sharing creates a "herd immunity" effect: once an anomaly is detected in one region, the entire ecosystem’s firewall parameters update instantly. The Qognet Mesh is the physical manifestation of collective security.
